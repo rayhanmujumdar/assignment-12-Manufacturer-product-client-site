@@ -1,6 +1,6 @@
 # What i did use this website
 --------------------------------------------------
-how i am install to in this project (client side)
+What i did install to in this project (client side)
 --------------------------------------------------
 # 1.tailwind --
 # 2.react router dom --
